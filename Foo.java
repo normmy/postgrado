@@ -15,4 +15,6 @@ public class Foo {
    public void setLastName(String lastName) {
       this.lastName = lastName;
    }
+
+testing here
 }
